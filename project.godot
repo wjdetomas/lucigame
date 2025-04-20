@@ -11,6 +11,6 @@ config_version=5
 [application]
 
 config/name="lucigame"
-run/main_scene="uid://b111xne7i5oyu"
+run/main_scene="uid://l7y3tnt4fvkv"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
